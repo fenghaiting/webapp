@@ -1,0 +1,36 @@
+.page-panel{
+	font-size: 16px;
+	color: #121718;
+	height: 360px;
+	display: block;
+	line-height: 30px;
+	margin:30px 60px 30px 60px;
+}
+
+.page-panel .title{
+	width: 172px;
+	height: 54px;
+	line-height: 54px;
+	display: inline-block;
+}
+
+.page-panel .title.active{
+	background: url('../../images/lawyer/item_icon.png');
+	background-repeat: no-repeat;
+}
+
+.page-panel .point-icon{
+	background: url('../../images/lawyer/point_.png');
+	background-repeat: no-repeat;
+	width: 7px;
+	height: 7px;
+	margin-left: 35px;
+	position: relative;
+	top: -2px;
+	display: inline-block;
+}
+
+.page-panel .title.active .point-icon{
+	background: url('../../images/lawyer/point.png');
+	background-repeat: no-repeat;
+}

@@ -1,0 +1,77 @@
+.page-footer{
+	background:url(../../images/about/footer.jpg) center center;
+	width: 1024px;
+	background-repeat:no-repeat;
+	height: 105px;
+	color:#5F666C;
+	position: fixed;
+	bottom: 0px;
+}
+
+.page-footer .panel{
+	margin-top:12px;
+}
+
+.page-footer span{
+	display: inline-block;
+	margin-left: 11px;
+}
+
+.page-footer .first{
+	margin-left: 0px;
+}
+
+.page-footer .address a{
+	color: #7379BE;
+	border-bottom:1px solid #7379BE;
+	padding-bottom:1px;
+	cursor: pointer;
+}
+
+.page-footer .wrap{
+	width: 858px;
+	height: 105px;
+	display: block;
+	margin: auto;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.page-footer .location{
+	background: url(../../images/about/location.jpg);
+	width: 14px;
+	display: inline-block;
+	position: relative;
+	top: 5px;
+	height: 23px;
+	background-repeat: no-repeat;
+}
+
+.page-footer .icon{
+	display: inline-block;
+	width: 30px;
+	position: relative;
+	top: 8px;
+	height: 27px;
+	background-repeat: no-repeat;
+	cursor: pointer;
+}
+
+.page-footer .facebook{
+	background: url(../../images/about/facebook.jpg);
+	background-repeat: no-repeat;
+}
+
+.page-footer .google{
+	background: url(../../images/about/google.jpg);
+	background-repeat: no-repeat;
+}
+
+.page-footer .ping{
+	background: url(../../images/about/ping.jpg);
+	background-repeat: no-repeat;
+}
+
+.page-footer p a{
+	color:#5F666C;
+}

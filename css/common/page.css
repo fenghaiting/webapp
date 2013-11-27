@@ -1,0 +1,22 @@
+.page-index{
+	display: block;
+	width: 1024px;
+	height: 100%;
+	margin: auto
+}
+
+.page-container{
+	background:url(../../images/about/content.jpg) center center;
+	background-repeat:no-repeat;
+	width: 100%;
+	margin-top: 50px;
+	height: 516px;
+}
+
+.page-container .wrap{
+	width: 858px;
+	height: 516px;
+	display: block;
+	margin: auto;
+	position: relative;
+}

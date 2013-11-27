@@ -1,0 +1,24 @@
+.page-tip{
+	position: absolute;
+	top: 0px;
+	right: -85px;
+	width: 67px;
+}
+
+.page-tip .music-off{
+	background:url(../../images/about/music_off.jpg);
+	background-repeat:no-repeat;
+	height: 65px;
+	width: 67px;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.page-tip .music-about{
+	background:url(../../images/about/music_about.jpg);
+	background-repeat:no-repeat;
+	height: 65px;
+	width: 67px;
+	display: inline-block;
+	cursor: pointer;
+}
